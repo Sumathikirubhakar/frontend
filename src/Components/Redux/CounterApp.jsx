@@ -9,7 +9,7 @@ export default function CounterApp() {
     const dispatch = useDispatch();
     return (
         <div>
-            <h1>CounterApp</h1>
+            <h1>Redux Counter App</h1>
 
             <button
                 onClick={() => {
